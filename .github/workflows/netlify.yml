@@ -11,16 +11,12 @@ jobs:
       run: sudo apt-get install asciidoctor -y
 
     - name: Compile
-      run: make
+      run: make all
     
     - name: Publish
       uses: netlify/actions/cli@master
       with:
-            publish-dir: './dist'
-            production-branch: main
-            enable-pull-request-comment: false
-            enable-commit-comment: true
-            overwrites-pull-request-comment: true
+        args: deploy --dir=./dist
       env:
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
