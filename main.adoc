@@ -27,9 +27,9 @@ image::https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/origi
 
 image::https://m.bettybossi.ch/static/rezepte/x/bb_blub160501_0080a_x.jpg[Brownie]
 
-* Cake 
+* SpaceCake 
 
-image::https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F020c4c4b-f77e-4d5d-8172-e62af5a563f0.2Ejpeg/422x316/quality/80/crop-from/center/cake-aux-framboises.jpeg[Cake]
+image::https://s1.qwant.com/thumbr/700x0/9/b/70ec7435664fd8f0835f542e907b24a1ec7d2b08aae6185072de13bc0bc8e2/space-cake-300x227-810x400.jpg?u=https%3A%2F%2Fweedcookie.ca%2Fwp-content%2Fuploads%2F2017%2F09%2Fspace-cake-300x227-810x400.jpg&q=0&b=1&p=0&a=1[SpaceCake]
 
 * Cookie
 
