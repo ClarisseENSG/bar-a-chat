@@ -3,7 +3,7 @@ all: clean dist
 
 .PHONY: dist
 dist: main.html 
-	mkdir dist && mv main.html dist/index.html && cp OsmozeOutside.jpg dist/OsmozeOutside.jpg
+	mkdir dist && cp main.html dist/index.html && cp OsmozeOutside.jpg dist/OsmozeOutside.jpg
 
 main.html:
 	asciidoctor main.adoc
