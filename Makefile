@@ -1,15 +1,13 @@
 .PHONY: all
-all: clean dist
+all: clean dist 
+
+.PHONY: dist
+dist: main.html 
+	mkdir dist && mv main.html dist/index.html && cp OsmozeOutside.jpg dist/OsmozeOutside.jpg
 
 main.html:
 	asciidoctor main.adoc
 
-.PHONY: dist
-dist: main.html
-	mkdir -p ./dist
-	cp ./main.html ./dist/index.html
-	cp ./OsmozeOutside.jpg ./dist/OsmozeOutside.jpg
-
 .PHONY: clean
 clean:
-	rm -rf ./dist/ ./main.html
+	rm -f ./main.html && rm -rf dist
