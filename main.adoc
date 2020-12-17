@@ -11,19 +11,28 @@ Pour commander appeler le 06 12 13 14 15.
 
 * Thé chaud
 
+image::https://www.maxicoffee.com/blog/wp-content/uploads/2017/06/the-sante.png[Tea]
 
 * Café chaud
 
+image::https://www.fourniresto.com/blog/wp-content/uploads/2017/05/caf%C3%A9-couv.jpeg[Coffee]
 
 * Chocolat chaud
 
+image::https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/recipe_photos/original/188335/CHOCOLAT_CHAUD_4.JPG[Chocolat]
 
 == Manger
 
 * Brownie
 
+image::https://m.bettybossi.ch/static/rezepte/x/bb_blub160501_0080a_x.jpg[Brownie]
+
 * Cake 
 
+image::https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F020c4c4b-f77e-4d5d-8172-e62af5a563f0.2Ejpeg/422x316/quality/80/crop-from/center/cake-aux-framboises.jpeg[Cake]
+
 * Cookie
+
+image::https://assets.afcdn.com/recipe/20190529/93153_w1024h576c1cx2220cy1728.jpg[Cookie]
 
 
